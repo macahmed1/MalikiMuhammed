@@ -1,73 +1,59 @@
-# 👋 Hi, I'm Maliki Muhammed  
+# Maliki Muhammed | Cloud & DevOps Engineering
 
-🎓 **Aspiring Master's Student in Artificial Intelligence | Cloud Engineering | Cybersecurity**  
-💻 **Tech Enthusiast | Software Engineer | AI Innovator**  
+Cloud & DevOps Engineer focused on building practical skills in AWS infrastructure, automation, deployment workflows, and cloud operations.
 
----
+I have a Computer Science background and software-engineering experience, and I'm developing a portfolio of hands-on projects that demonstrate how to design, deploy, test, secure, monitor, and maintain cloud-based systems.
 
-## 🌍 About Me
+## 🎯 Career Focus
 
-I'm a **Computer Science graduate** from **ESPAM Formation University**, passionate about using **technology to create meaningful impact** — especially through **AI-driven solutions** that empower businesses and communities.
+- Cloud Engineering and AWS infrastructure
+- Infrastructure as Code with Terraform
+- Docker and containerized applications
+- CI/CD pipelines with GitHub Actions
+- Linux administration and networking
+- Python and Bash automation
+- Monitoring, troubleshooting, and cloud cost optimization
 
-Currently, I'm applying for a **fully funded Master's program** to further my expertise in **Artificial Intelligence, Cloud Computing, and Cybersecurity**.
+## 🛠️ Technical Foundation
 
----
+- **Cloud:** AWS
+- **Infrastructure as Code:** Terraform
+- **Containers:** Docker
+- **CI/CD:** GitHub Actions
+- **Operating Systems:** Linux
+- **Programming and Scripting:** Python, Bash, C, JavaScript
+- **Version Control:** Git and GitHub
 
-## 🚀 Projects & Research Highlights
+I document the technologies, implementation steps, and validation evidence for each project as I build and test it.
 
-### 🤖 [AI Support Chatbot Platform] - https://www.strategicwebsystem.com/chatbot/
-An intelligent customer support platform that uses conversational AI to automate 24/7 responses for businesses.  
-**Tech:** Python, Llama 3.1, LangChain, Streamlit, AWS Lambda  
+## 🚀 Cloud Engineering Projects
 
-### ☁️ [Cloud Infrastructure Automation]
-A serverless project integrating **AWS S3**, **Lambda**, and **API Gateway** for scalable cloud operations.  
-**Tech:** AWS, Terraform, Python, CI/CD  
+My portfolio roadmap covers:
 
-### 🔐 [Cybersecurity Data Analyzer]
-A machine learning tool for detecting network intrusions and anomalies in real-time logs.  
-**Tech:** Python, Scikit-learn, Pandas, Flask  
+1. AWS-hosted portfolio website
+2. Serverless API using AWS Lambda and API Gateway
+3. Terraform-managed AWS infrastructure
+4. Dockerized application
+5. Automated CI/CD pipeline
+6. Three-tier AWS architecture
+7. Monitoring and logging
+8. Kubernetes deployment
+9. Python cloud automation
+10. Cloud cost optimization
+11. Incident response and troubleshooting
 
----
+Project links will be added as implementations are completed and documented.
 
-## 🧩 Skills & Tools
+## 📋 Engineering Approach
 
-| Area | Tools / Skills |
-|------|----------------|
-| **Programming** | Python, JavaScript, HTML, CSS |
-| **AI/ML** | Llama 3.1, TensorFlow, PyTorch, LangChain |
-| **Cloud** | AWS (EC2, S3, Lambda, CloudFormation) |
-| **DevOps** | Docker, GitHub Actions, CI/CD |
-| **Data** | SQL, Pandas, Power BI |
-| **Other** | Web Development, Digital Marketing, Video Editing |
+**Plan → Design → Build → Test → Secure → Monitor → Document → Clean Up**
 
----
+I aim to understand not just how a system works, but also how to troubleshoot it, control its costs, and explain its architecture and design decisions.
 
-## 🏅 Achievements & Certifications
+## 🌐 Connect
 
-- 🎖️ Graduate, Software Engineering Program  
-- ☁️ AWS Cloud Practitioner (in progress)  
-- 🤝 Internship as Tech Specialist  
-- 📊 Founded **Strategic Web System**, a tech business offering e-commerce, AI agents, and digital marketing services.
+- **GitHub:** [macahmed1](https://github.com/macahmed1)
+- **LinkedIn:** [Maliki Muhammed](https://www.linkedin.com/in/maliki-muhammed-cloud)
+- **Website:** [Strategic Web System](https://www.strategicwebsystem.com)
 
----
-
-## 🌱 What I'm Currently Working On
-
-- Expanding my AI chatbot platform using **Llama 3.1**  
-- Integrating **Cloud Developer & DevOps** workflows into my learning roadmap  
-- Preparing my **Master’s application portfolio** with GitHub & academic projects  
-
----
-
-## 📫 How to Reach Me
-
-📧 **malik@strategicwebsystem.com**  
-🌐 LinkedIn – https://www.linkedin.com/in/maliki-muhammed 
-📺 YouTube — Tech Simplify Now – https://www.youtube.com/@TechSimplifyNow 
-📺 YouTube — Global Trends – https://www.youtube.com/@GlobalTrends-24 
-💻 GitHub Projects – https://github.com/macahmed1 
-
-
----
-
-> 💡 *“Empowering people through intelligent technology is not just a goal — it’s my mission.”*
+I'm interested in Cloud Engineering, DevOps, infrastructure automation, and practical engineering opportunities.
